@@ -1,0 +1,6 @@
+[0505/084121.205:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0505/084121.208:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0505/084121.210:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0505/181649.788:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
+[0505/181649.806:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: Ha terminado la canalización. (0x6D)
+[0505/181649.807:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Hotson\Reports\Dump: El sistema no puede encontrar la ruta especificada. (0x3)
