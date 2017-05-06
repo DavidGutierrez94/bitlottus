@@ -44,7 +44,7 @@ export default class NavLeftBar extends Component {
               <li role="presentation" className="divider"></li>
         			<li><a href="#"><svg className="glyph stroked male-user"><use xlinkHref="#stroked-male-user"></use></svg> Login Page</a></li>
             </ul>
-            <div className="attribution">Diseño por <a href="#">Maxcorp</a></div>
+             
         </div>
     )
   }
