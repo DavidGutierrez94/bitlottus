@@ -4,7 +4,7 @@ import {Link} from 'react-router-dom'
 export default class NavBar extends Component {
   render(){
     return(
-      <div>
+
           <nav className="navbar navbar-inverse navbar-fixed-top" role="navigation">
             <div className="container-fluid">
               <div className="navbar-header">
@@ -14,7 +14,7 @@ export default class NavBar extends Component {
                   <span className="icon-bar"></span>
                   <span className="icon-bar"></span>
                 </button>
-                <a className="navbar-brand" href="#"></a>
+                <a className="navbar-brand" href=""></a>
                 <ul className="user-menu">
                   <li className="dropdown pull-right">
                     <a href="#" className="dropdown-toggle" data-toggle="dropdown"><svg className="glyph stroked male-user"><use xlinkHref="#stroked-male-user"></use></svg> Usuario <span className="caret"></span></a>
@@ -28,7 +28,7 @@ export default class NavBar extends Component {
               </div>
             </div>
         </nav>
-      </div>
+
     )
   }
 }

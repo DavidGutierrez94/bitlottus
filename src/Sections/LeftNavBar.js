@@ -5,7 +5,6 @@ import {Router, Route, IndexRouter, hashHistory} from 'react-router'
 export default class NavLeftBar extends Component {
   render(){
     return(
-      <div>
         <div id="sidebar-collapse" className="col-sm-3 col-lg-2 sidebar">
           <form role="search">
             <div className="form-group">
@@ -47,8 +46,6 @@ export default class NavLeftBar extends Component {
             </ul>
             <div className="attribution">Diseño por <a href="#">Maxcorp</a></div>
         </div>
-              
-      </div>
     )
   }
 }
